@@ -56,13 +56,6 @@ To reduce risks in high-impact zones like Bagmati Province:
 -  **Continuous Monitoring & Research**
 
 ---
-
-##  Conclusion
-
-This project shows how data can guide disaster management and preparedness. By learning from the past and acting now, Nepal can become more resilient to future seismic events.
-
----
-
 ##  Tools Used
 
 - **Python** (Pandas, Matplotlib, Seaborn)
@@ -76,6 +69,13 @@ This project shows how data can guide disaster management and preparedness. By l
 - `cleaned_nepal_earthquake.csv` – Cleaned dataset
 - `correlation_matrix_heatmap.png` – Heatmap image
 - Final graphs (scatter, histogram, boxplot, etc.)
+
+##  Conclusion
+
+This project shows how data can guide disaster management and preparedness. By learning from the past and acting now, Nepal can become more resilient to future seismic events.
+
+---
+
 
 ---
 
